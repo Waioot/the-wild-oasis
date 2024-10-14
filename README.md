@@ -98,7 +98,7 @@ src/
 
 ```
 
-git clone https://github.com/your-username/the-wild-oasis.git
+git clone https://github.com/Waioot/the-wild-oasis.git
 cd the-wild-oasis
 
 ```
